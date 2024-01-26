@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: fe40f9810581f04458a4c202d9c42087
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Crayon Kids
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4502874921cb4c54c8947e683d578974, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
